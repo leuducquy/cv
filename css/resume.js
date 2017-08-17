@@ -993,7 +993,7 @@ export default StyleSheet.create({
   '#inner': {
     'padding': [{ 'unit': 'px', 'value': 10 }, { 'unit': 'px', 'value': 80 }, { 'unit': 'px', 'value': 10 }, { 'unit': 'px', 'value': 80 }],
     'margin': [{ 'unit': 'px', 'value': 80 }, { 'unit': 'string', 'value': 'auto' }, { 'unit': 'px', 'value': 80 }, { 'unit': 'string', 'value': 'auto' }],
-    'background': '#fff',
+    'background': '#ccc',
     'border': [{ 'unit': 'string', 'value': 'solid' }, { 'unit': 'string', 'value': '#666' }],
     'borderWidth': '8px 0 2px 0'
   },
