@@ -1,15 +1,7 @@
 import { StyleSheet } from 'react-native';
 
 export default StyleSheet.create({
-  // ---------------------------------------------------------------------------------
-	STRIPPED DOWN RESUME TEMPLATE
-    html resume
-
-    v0.9: 5/28/09
-
-    design and code by: thingsthatarebrown.com 
-                        (matt brown)
----------------------------------------------------------------------------------
+ 
   'html': {
     'color': '#000',
     'background': '#FFF'
@@ -208,10 +200,10 @@ export default StyleSheet.create({
     'fontWeight': 'normal'
   },
   'q:before': {
-    'content': ''''
+    'content': ''
   },
   'q:after': {
-    'content': ''''
+    'content': ''
   },
   'abbr': {
     'border': [{ 'unit': 'px', 'value': 0 }],
